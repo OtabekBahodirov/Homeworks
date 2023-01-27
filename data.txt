@@ -1,0 +1,8 @@
+Elbek Xakimbekov;ekhakimbekov;password1;998998887766;2
+8600789045671234;3120000
+4560334598762345;1000
+Said Saidov;ssaidov;password2;998886665544;1
+1234456723459873;1500
+Xojiakbar Nuriddinov;xnuriddinov;password3;998886665533;0
+Jamshid Muhammadjanov;jmuhammadjanov;password4;998886665522;1
+8600234577778888;5000000

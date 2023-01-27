@@ -1,0 +1,7 @@
+1-qatorda ism yoki familiya belgilanmagan
+2-qatorda hisob haqida ma'lumot to'liq emas
+3-qatorda hisob haqida ma'lumot to'liq emas
+4-qatorda ism yoki familiya belgilanmagan
+5-qatorda hisob haqida ma'lumot to'liq emas
+6-qatorda ism yoki familiya belgilanmagan
+7-qatorda telefon raqami xato kiritilgan
